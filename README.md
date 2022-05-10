@@ -1,6 +1,4 @@
-### Hi, I'm Jessie van Buggenum 👋
-
- I'm a senior scientist specialized in single-cell sequencing technology development. 
+### Hi! 👋 I'm a senior scientist specialized in single-cell sequencing technology development. 
 
 #
 
