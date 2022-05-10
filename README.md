@@ -10,7 +10,7 @@
 - :seedling: Exploring Technical Content Writing through Quarto and Mardown✍️, and intending to learn Julialang.
 - :zap: In my free time, I enjoy 🚵‍♀️bikepacking, 📷photography and 📚reading scientifc books on fundamental properties of life.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vanbuggenum-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessievanbuggenum/)
-- 🔥Find more details on the science and art on [my webpage](jessievanbuggenum.nl)
+- 🔥Find more details on the science and art on [my webpage](https://www.jessievanbuggenum.nl)
 
 #
 
