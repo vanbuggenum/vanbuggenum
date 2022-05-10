@@ -2,7 +2,8 @@
 
  I'm a senior scientist specialized in single-cell sequencing technology development. 
 
----
+#
+
 ### :woman_technologist: About Me :
 
 - 🔬 I’m working as a wetlab and drylab scientist, specialized in single-cell multi-modal sequencing technologies.
@@ -11,7 +12,7 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vanbuggenum-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessievanbuggenum/)
 - 🔥Find more details on the science and art on [my webpage](jessievanbuggenum.nl)
 
----
+#
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
