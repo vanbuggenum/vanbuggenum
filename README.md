@@ -28,8 +28,8 @@
 
 ### :writing_hand: Recent Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Why start a blog with Quarto? What is Quarto!?](https://mellifluous-phoenix-5e25d6.netlify.app/posts/2022-05-01-launch-blog-with-quarto/20220501-launch-blog-with-quarto.html)
-- [Notes on Rpackage ‘WorkflowR’](https://mellifluous-phoenix-5e25d6.netlify.app/posts/2021-12-04-workflowr-codedocumentation/20211204_note-on-workflowR.html)
+- [Why start a blog with Quarto? What is Quarto!?](https://blog.jessievanbuggenum.nl/posts/2022-05-01-launch-blog-with-quarto/20220501-launch-blog-with-quarto.html)
+- [Notes on Rpackage ‘WorkflowR’](https://blog.jessievanbuggenum.nl/posts/2021-12-04-workflowr-codedocumentation/20211204_note-on-workflowR.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
