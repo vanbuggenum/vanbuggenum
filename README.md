@@ -21,7 +21,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" **alt="Atom" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" **alt="vscode" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Rstudio" **alt="Rstudio" width="40" height="40"/>
 </div>
+
+#
 
 ### :writing_hand: Recent Blog Posts :
 <!-- BLOG-POST-LIST:START -->
