@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: vanbuggenum/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://mellifluous-phoenix-5e25d6.netlify.app/index.xml"
+          feed_list: "https://dev.to/feed/itszed0"
