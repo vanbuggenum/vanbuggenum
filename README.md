@@ -1,4 +1,4 @@
-### Hi! 👋 I'm a senior scientist specialised in single-cell sequencing technologies and multi-modal data analysis. 
+### Hi! 👋 I'm a senior scientist specialized in single-cell sequencing technologies and multi-modal data analysis. 
 
 #
 
