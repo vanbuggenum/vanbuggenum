@@ -1,11 +1,11 @@
-### Hi! 👋 I'm a senior scientist specialized in single-cell sequencing technologies and multi-modal data analysis. 
+### Hi! 👋 I'm a senior scientist specialized in multi-modal data analysis and single-cell sequencing technologies. 
 
 #
 
 ### :woman_technologist: About Me :
 
 - 🔬 I’m working as a wet- and dry-lab scientist, developing single-cell multi-modal sequencing technologies.
-- :seedling: Exploring technical content writing through Quarto and Mardown✍️. At some point want to learn Julia lang.
+- :seedling: Exploring technical content writing through Quarto and Mardown✍️. 
 - :zap: In my free time I enjoy 🚵‍♀️bikepacking, 📷photography and 📚reading scientifc books on fundamental properties of life.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vanbuggenum-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessievanbuggenum/)
 - 🔥Find more details on the science and art on [my webpage](https://www.jessievanbuggenum.nl)
